@@ -20,5 +20,5 @@ SPIELANLEITUNG:
   Technische Infos:
   Momentan v7.1.
   Neue Fixes am Countedown bei Neustart mit "SETZE EFFEKT DURCHSICHTIGKEIT AUF 0"
-  Die Index-html ist wegen zu grosser Datenmenge der anderen Dateien für Cloudlare Pages auf das Repo htmlgd umgezogen.
+  Die Index-html ist wegen zu grosser Datenmenge der anderen Dateien für Cloudflare Pages auf das Repo htmlgd umgezogen.
 
